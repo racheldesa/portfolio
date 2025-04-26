@@ -5,11 +5,12 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Contact from './Contact';
 import Education from './Education';
+import References from './References';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Education />
+    <References />
   </React.StrictMode>
 );
 
