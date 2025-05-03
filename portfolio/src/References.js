@@ -14,6 +14,15 @@ function References() {
                         </div>
                     </div>
                 </div>
+                <div class="col">
+                    <div class="card">
+                        <div class="card-header">Matthew Hamann</div>
+                        <div class="card-body">
+                            <p><strong>Assistant Teaching Professor, Kinesiology</strong> Iowa State University</p>
+                            <p><a href="mhamann@iastate.edu">mhamann@iastate.edu</a></p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     )
